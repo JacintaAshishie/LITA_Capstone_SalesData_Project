@@ -21,6 +21,26 @@ The primary Data used here is SalesData.xslx. This data provide the LITA at Incu
 - Removing duplicate
 - Data normalization
 - Data transformation
+
+  ## Exploratory Data Analysis (EDA)
+- Univariate analysis
+- Multivariate analysis
+
+## Data Analysis
+- SQL queries for sales analysis
+- Data modeling
+
+## Data Visualization
+- Power BI dashboard
+
+## Findings and Recommendations
+- Key findings
+- Recommendations
+
+## License
+This project is licensed under the MIT License.
+
+
   
 
 
