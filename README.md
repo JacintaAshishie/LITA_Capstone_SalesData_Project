@@ -66,7 +66,7 @@ This is where we include some basic lines of code or queries or even some of the
 
 ### Data Vsualization
 
-
+https://github.com/JacintaAshishie/Sales_Performance_Analysis/blob/main/CAPSTONE%20SALESDATA%20VISUALS.png
   
 
 
