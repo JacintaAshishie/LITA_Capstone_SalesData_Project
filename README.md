@@ -1,2 +1,11 @@
 # Sales_Performance_Analysis
-Sales performance analysis project for a retail store using Excel, SQL, and Power BI
+
+### ## Project Overview
+This project aims to analyze sales data to identify trends, patterns, and insights for business decision-making.
+
+## Data Sources
+- SalesData.xslx
+- 
+- Customer dataset (`data/customer_data.csv`)
+
+
