@@ -64,12 +64,7 @@ This is where we include some basic lines of code or queries or even some of the
    GROUP BY Region
 
 
-## Findings and Recommendations
-- Key findings
-- Recommendations
-
-## License
-This project is licensed under the MIT License.
+### Data Vsualization
 
 
   
