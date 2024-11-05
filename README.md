@@ -32,13 +32,10 @@ This project aims to analyze sales data to identify trends, patterns, and insigh
 The primary Data used here is SalesData.xslx. This data provide the LITA at IncubatorHub and was made available for download from CANVAS. Other Similar datasets can be freely downloaded from an open source oinline such as Kaggle or FRED or any other repository sites. 
 
 ### Tools Used
-- Microsoft Excel 
-  1. For data cleaning,
-  2. For Analysis
-  3. For Visualization
-
+- Microsoft Excel for data cleaninng, analysis and visualization
 - SQL -Structured Query Language for Quering of Data
 - Power BI for data visualization
+- GitHub for portfolio management
 
    ## Methodology:
 1. Data Cleaning
