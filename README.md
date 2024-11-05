@@ -1,6 +1,6 @@
 # Sales_Performance_Analysis
 
-##3 Project Overview
+## Project Overview
 This project aims to analyze sales data to identify trends, patterns, and insights for business decision-making. The project focuses on data cleaning, analysis, and visualization to extract valuable insights from the data set used. The primary goal is to provide actionable recommendations based on data-driving findings.: In this project, you are tasked with analyzing the sales performance of a retail store. You will need to explore sales data to uncover key insights such as top-selling products, regional performance, and monthly sales trends. The goal is to produce an interactive Power BI dashboard that highlights these findings.
 
 
@@ -16,17 +16,22 @@ The primary Data used here is SalesData.xslx. This data provide the LITA at Incu
 - SQL -Structured Query Language for Quering of Data
 - Power BI for data visualization
 
-   ## Data Cleaning and Preparation
-  In the initial stage of the data cleaning and preparations, we performrd the following actions;
+   ## Methodology:
+1. Data Cleaning
+2. Data Analysis (SQL queries)
+3. Data Visualization (Power BI)
+4. Findings and Recommendations.
+
+In the initial stage of the data cleaning and preparations, we performed the following actions;
 - Data loading and inspection
 - Handling missing values
-- Removing duplicate
-- Data cleanining
+- Removing duplicates
 - Data Sorting
 - Data normalization
 - Data transformation
 
   ## Exploratory Data Analysis (EDA)
+  ```
   EDA involved the exploring of the data to answer queestions about the data such as;
   
 - What is the Total sales Per product?
@@ -45,23 +50,19 @@ The primary Data used here is SalesData.xslx. This data provide the LITA at Incu
 
 
 ## Data Analysis
-This ios where we include some basic lines pof code or queries or even some of the Excel functions and we use Pivot tables to generate some sales reports;
+```
+This is where we include some basic lines of code or queries or even some of the Excel functions and we use Pivot tables to generate some sales reports;
 - Excel;
    AVERAGEIF(C:C,C:C,H:H)
    =SUMIF(C:C,C:C,H:H)---SUMIF(range, criteria, [sum_range])
   
   ```SQL
   SELECT
-  Region,
-  COUNT(CustomerID) AS TotalCustomers
-  FROM Capstone_SalesData
-  GROUP BY Region
- 
-    
-- Data modeling
+   Region,
+   COUNT(CustomerID) AS TotalCustomers
+   FROM Capstone_SalesData
+   GROUP BY Region
 
-## Data Visualization
-- Power BI dashboard
 
 ## Findings and Recommendations
 - Key findings
