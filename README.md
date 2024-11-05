@@ -4,6 +4,30 @@
 This project aims to analyze sales data to identify trends, patterns, and insights for business decision-making. The project focuses on data cleaning, analysis, and visualization to extract valuable insights from the data set used. The primary goal is to provide actionable recommendations based on data-driving findings.: In this project, you are tasked with analyzing the sales performance of a retail store. You will need to explore sales data to uncover key insights such as top-selling products, regional performance, and monthly sales trends. The goal is to produce an interactive Power BI dashboard that highlights these findings.
 
 
+## Project Scope:
+
+- Explore sales data for key insights
+- Identify top-selling products and regional performance
+- Analyze monthly sales trends
+- Develop an interactive Power BI dashboard
+
+## Deliverables:
+
+- Cleaned and prepared sales dataset
+- SQL queries for data analysis
+- Power BI dashboard with interactive visualizations
+- Written report detailing findings and recommendations
+
+## Key Performance Indicators (KPIs):
+
+- Total Sales
+- Sales Growth Rate
+- Top-Selling Products
+- Regional Sales Performance
+- Monthly Sales Trends
+
+
+
 ### Data Sources
 The primary Data used here is SalesData.xslx. This data provide the LITA at IncubatorHub and was made available for download from CANVAS. Other Similar datasets can be freely downloaded from an open source oinline such as Kaggle or FRED or any other repository sites. 
 
@@ -31,7 +55,7 @@ In the initial stage of the data cleaning and preparations, we performed the fol
 - Data transformation
 
   ## Exploratory Data Analysis (EDA)
-  ```
+
   EDA involved the exploring of the data to answer queestions about the data such as;
   
 - What is the Total sales Per product?
@@ -62,6 +86,14 @@ This is where we include some basic lines of code or queries or even some of the
    COUNT(CustomerID) AS TotalCustomers
    FROM Capstone_SalesData
    GROUP BY Region
+```
+
+## Outcomes:
+
+- Actionable recommendations for business growth
+- Improved sales forecasting
+- Enhanced product portfolio management
+- Data-driven decision-making
 
 
 ### Data Vsualization
