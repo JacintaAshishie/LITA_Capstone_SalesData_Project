@@ -45,7 +45,19 @@ The primary Data used here is SalesData.xslx. This data provide the LITA at Incu
 
 
 ## Data Analysis
-- SQL queries for sales analysis
+This ios where we include some basic lines pof code or queries or even some of the Excel functions and we use Pivot tables to generate some sales reports;
+- Excel;
+   AVERAGEIF(C:C,C:C,H:H)
+   =SUMIF(C:C,C:C,H:H)---SUMIF(range, criteria, [sum_range])
+  
+  ```SQL
+  SELECT
+  Region,
+  COUNT(CustomerID) AS TotalCustomers
+  FROM Capstone_SalesData
+  GROUP BY Region
+ 
+    
 - Data modeling
 
 ## Data Visualization
