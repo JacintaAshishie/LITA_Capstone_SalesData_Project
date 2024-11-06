@@ -101,7 +101,8 @@ This is where we include some basic lines of code or queries or even some of the
 
 
 ### Data Vsualization
-PowerBI dashboard
+
+((https://github.com/JacintaAshishie/LITA_Capstone_SalesData_Project/blob/main/CAPSTONE%20SALESDATA%20VISUALS.png))
   
 
 
