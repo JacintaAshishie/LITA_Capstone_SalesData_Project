@@ -1,7 +1,7 @@
 # Sales_Performance_Analysis
 
 ## Project Overview
-This project aims to analyze sales data to identify trends, patterns, and insights for business decision-making focusing on data cleaning, analysis, and visualization to extract valuable insights.
+This project aims at conducting a comprehensive analysis of a retail store sales data from 2023 to 2024 to assess product performance and identify top-selling items, compare monthly sales trends across regions, and uncover customer preferences and regional patterns. This analysis provides actionable insights to inform data-driving decisions, optimize product offerings, and enhance customer retention strategies. In doing this, we will be focusing on data cleaning, ansalysis and visualization using Excel, SQL, and Power BI respectively.
 
 ## Project Scope:
 
@@ -29,7 +29,7 @@ This project aims to analyze sales data to identify trends, patterns, and insigh
 
 ### Data Sources
 
-The primary data used in this analysis is the SalesData.xlsx file, kindly provided by LITA IncubatorHub and made available for download on CANVAS.
+The primary data used in this analysis is the SalesData.xlsx file, kindly provided by LITA the IncubatorHub and made available for download on CANVAS.
 Alternative Data Sources
 
 For those interested in exploring similar datasets, freely available options can be downloaded from open-source online repositories, including:
@@ -49,7 +49,8 @@ For those interested in exploring similar datasets, freely available options can
 2. Data Analysis (SQL queries)
 3. Data Visualization (Power BI)
 4. Findings and Recommendations.
-
+5. 
+## Sata Cleaning and Preparations 
 In the initial stage of the data cleaning and preparations, we performed the following actions;
 - Data loading and inspection
 - Handling missing values
