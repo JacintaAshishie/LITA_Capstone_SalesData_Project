@@ -1,7 +1,11 @@
 # Sales_Performance_Analysis
 
+## Table Outline
+- [Project Overview](#project-overview)
+- [Project Scope](#project-scope)
+- [Key Performance Indicators](#key-performanceindicators)
 ## Project Overview
-This project aims at conducting a comprehensive analysis of a retail store sales data from 2023 to 2024 to assess product performance and identify top-selling items, compare monthly sales trends across regions, and uncover customer preferences and regional patterns. This analysis provides actionable insights to inform data-driving decisions, optimize product offerings, and enhance customer retention strategies. In doing this, we will be focusing on data cleaning, ansalysis and visualization using Excel, SQL, and Power BI respectively.
+This project aims at conducting a comprehensive analysis of a retail store sales data from 2023 to 2024 to assess product performance and identify top-selling items, compare monthly sales trends across regions, and uncover customer preferences and regional patterns. This analysis provides actionable insights to inform data-driving decisions, optimize product offerings, and enhance customer retention strategies. In doing this, we will be focusing on data cleaning, analysis and visualization using Excel, SQL, and Power BI respectively.
 
 ## Project Scope:
 
@@ -9,13 +13,6 @@ This project aims at conducting a comprehensive analysis of a retail store sales
 - Identify top-selling products and regional performance
 - Analyze monthly sales trends
 - Develop an interactive Power BI dashboard
-
-## Deliverables:
-
-- Cleaned and prepared sales dataset
-- SQL queries for data analysis
-- Power BI dashboard with interactive visualizations
-- Written report detailing findings and recommendations
 
 ## Key Performance Indicators (KPIs):
 
