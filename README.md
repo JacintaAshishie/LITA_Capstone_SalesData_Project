@@ -41,6 +41,44 @@ For those interested in exploring similar datasets, freely available options can
 - Power BI for data visualization
 - GitHub for portfolio management
 
+  ## Dataset Column Headers and Definitions
+Here's a sample outline of terminology and definitions for key column headers specific to the retail sales dataset:
+
+1. Sales Data
+
+    - Date: Date of sale (YYYY-MM-DD)
+    - Region: Geographic region where sale occurred (e.g., North, South, East, West)
+    - Store ID: Unique identifier for each store
+    - Product ID: Unique identifier for each product
+
+2. Product Information
+
+    - Product Name: Name of product sold
+    - Category: Product category (e.g., Electronics, Clothing, Home Goods)
+    - Subcategory: Product subcategory (e.g., Smartphones, Laptops, TVs)
+
+3. Sales Metrics
+
+    - Sales Amount: Total sales amount for each transaction
+    - Quantity Sold: Number of units sold
+    - Revenue: Total revenue generated from sales
+
+4. Customer Information
+
+    - Customer ID: Unique identifier for each customer
+    - Customer Type: Type of customer (e.g., Individual, Business)
+
+5. Additional Metadata
+
+    - Seasonality: Indicator for seasonal fluctuations (e.g., Holiday, Summer, Back-to-School)
+    - Promotion: Indicator for promotional activities (e.g., Discount, Bundle Deal)
+
+Key Terms and Definitions
+
+- Top-selling product: Product with highest sales amount or quantity sold.
+- Regional sales performance: Comparison of sales across different regions.
+- Product category analysis: Examination of sales trends within specific product categories.
+
    ## Methodology:
 1. Data Cleaning
 2. Data Analysis (SQL queries)
