@@ -148,4 +148,49 @@ This is where we include some basic lines of code or queries or even some of the
 
 ((https://github.com/JacintaAshishie/LITA_Capstone_SalesData_Project/blob/main/LITA_CAPSTONE_SALESDASHBOARD%203.png))
 
+## Key Findings:
+
+- Top-selling product (revenue): Shoes
+- Lowest-revenue product: Socks
+- Top-performing region: South
+- Underperforming region: West
+- Best-selling product (quantity): Hats
+- Slowest-selling product: Jackets
+- Regional gaps: Hats, Jackets, Shirts absent in South
+- Peak sales month: February
+
+
+## Strategic Recommendations to Enhance Sales Performance
+
+1. Revitalize Low-Selling Items
+
+Implement promotions and bundling strategies to boost sales of underperforming products (Socks, Jackets) by pairing them with best-sellers (Shoes).
+
+2. Regional Revitalization
+
+Focus on low-performing regions:
+
+a. West Region: Launch targeted campaigns to increase sales.
+b. South Region: Conduct customer feedback sessions to understand why certain items (Hats, Jackets, Shirts) aren't selling, and adjust product offerings accordingly.
+
+3. Optimize Sales During Low Months
+
+Analyze February's successful sales strategies and replicate them in slower months (e.g., July) to improve sales performance.
+Expected Outcome
+
+Implementation of these recommendations will likely lead to:
+
+- Increased revenue inflow in upcoming months
+- Improved sales performance across regions and product lines
+- Enhanced customer satisfaction through tailored product offerings
+
+## Action Plan
+
+1. Develop and launch bundled promotions for low-selling items within the next 6-8 weeks.
+2. Conduct customer feedback sessions in the South region and adjust product offerings within 12 weeks.
+3. Analyze February's sales strategies and implement similar tactics in July.
+
+By executing these strategies, we can stimulate growth, enhance customer engagement, and drive revenue increases.
+
+
 
