@@ -176,8 +176,8 @@ Implement promotions and bundling strategies to boost sales of underperforming p
 
 Focus on low-performing regions:
 
-a. West Region: Launch targeted campaigns to increase sales.
-b. South Region: Conduct customer feedback sessions to understand why certain items (Hats, Jackets, Shirts) aren't selling, and adjust product offerings accordingly.
+ a. West Region: Launch targeted campaigns to increase sales.
+ b. South Region: Conduct customer feedback sessions to understand why certain items (Hats, Jackets, Shirts) aren't selling, and adjust product offerings accordingly.
 
 3. Optimize Sales During Low Months
 
