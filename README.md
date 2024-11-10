@@ -3,7 +3,17 @@
 ## Table Outline
 - [Project Overview](#project-overview)
 - [Project Scope](#project-scope)
-- [Key Performance Indicators](#key-performanceindicators)
+- [Key Performance Indicators](#key-performance-indicators)
+- [Data Sources](#Data-Sources)
+- [Tools Used](#Tools-Used)
+- [Dataset Column Headers and Definitions](#DatasetColumnHeadersandDefinitions)
+- [Key Terms and Definitions](#Key-Termsand-Definitions)
+- [Methodology](#Methodology)
+- [Exploratory Data Analysis](#ExploratoryDataAnalysis)
+- [Data Analysis](#DataAnalysis)
+- [Data Vsualization](#DataVsualization)
+- [Findings and Recommendation](#FindingsandRecommendation)
+  
 ## Project Overview
 This project aims at conducting a comprehensive analysis of a retail store sales data from 2023 to 2024 to assess product performance and identify top-selling items, compare monthly sales trends across regions, and uncover customer preferences and regional patterns. This analysis provides actionable insights to inform data-driving decisions, optimize product offerings, and enhance customer retention strategies. In doing this, we will be focusing on data cleaning, analysis and visualization using Excel, SQL, and Power BI respectively.
 
@@ -46,34 +56,28 @@ Here's a sample outline of terminology and definitions for key column headers sp
 
 1. Sales Data
 
-    - Date: Date of sale (YYYY-MM-DD)
+    - Date: OrderDate (MM-DD-YYYY)
     - Region: Geographic region where sale occurred (e.g., North, South, East, West)
-    - Store ID: Unique identifier for each store
-    - Product ID: Unique identifier for each product
+    - CustomerID: Unique identifier for each Customer
+    - OrderID: Unique identifier for each order made
 
 2. Product Information
 
-    - Product Name: Name of product sold
-    - Category: Product category (e.g., Electronics, Clothing, Home Goods)
-    - Subcategory: Product subcategory (e.g., Smartphones, Laptops, TVs)
+    - Product: Name of product sold
+    - Category: Product category (shoes, shirt, gloves,hat,socks, jacket)
+      
 
 3. Sales Metrics
 
     - Sales Amount: Total sales amount for each transaction
     - Quantity Sold: Number of units sold
+    - Unit Price: Price per quantity sold
     - Revenue: Total revenue generated from sales
+    - Average Revenue: Average revenue generated from sales
+    - Average Sales: Average sales
+      
 
-4. Customer Information
-
-    - Customer ID: Unique identifier for each customer
-    - Customer Type: Type of customer (e.g., Individual, Business)
-
-5. Additional Metadata
-
-    - Seasonality: Indicator for seasonal fluctuations (e.g., Holiday, Summer, Back-to-School)
-    - Promotion: Indicator for promotional activities (e.g., Discount, Bundle Deal)
-
-Key Terms and Definitions
+## Key Terms and Definitions
 
 - Top-selling product: Product with highest sales amount or quantity sold.
 - Regional sales performance: Comparison of sales across different regions.
@@ -84,8 +88,7 @@ Key Terms and Definitions
 2. Data Analysis (SQL queries)
 3. Data Visualization (Power BI)
 4. Findings and Recommendations.
-5. 
-## Sata Cleaning and Preparations 
+## Data Cleaning and Preparations 
 In the initial stage of the data cleaning and preparations, we performed the following actions;
 - Data loading and inspection
 - Handling missing values
@@ -93,8 +96,8 @@ In the initial stage of the data cleaning and preparations, we performed the fol
 - Data Sorting
 - Data normalization
 - Data transformation
-
-  ## Exploratory Data Analysis (EDA)
+  
+  ##  Exploratory Data Analysis(EDA)
 
   EDA involved the exploring of the data to answer queestions about the data such as;
   
