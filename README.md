@@ -1,6 +1,6 @@
 # Sales_Performance_Analysis
 
-## Table Outline
+## Project Table Outline
 - [Project Overview](#project-overview)
 - [Project Scope](#project-scope)
 - [Key Performance Indicators](#key-performance-indicators)
