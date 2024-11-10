@@ -140,7 +140,7 @@ This is where we include some basic lines of code or queries or even some of the
 
 ((https://github.com/JacintaAshishie/LITA_Capstone_SalesData_Project/blob/main/CAPSTONE%20SALESDATA%20VISUALS.png))
   
-
+((https://github.com/JacintaAshishie/LITA_Capstone_SalesData_Project/blob/main/LITA_CAPSTONE_SALESDASHBOARD%202.png))
 
 
 
