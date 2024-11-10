@@ -13,7 +13,9 @@
 - [Exploratory Data Analysis](#ExploratoryDataAnalysis)
 - [Data Analysis](#DataAnalysis)
 - [Data Vsualization](#DataVsualization)
-- [Findings and Recommendation](#FindingsandRecommendation)
+- [KeyFindings](#KeyFindings)
+- [Strategic Recommendations to Enhance Sales Performance](#Strategic Recommendations to Enhance Sales Performance)
+- [Actio Plan](#ActionPlan)
   
 ## Project Overview
 This project aims at conducting a comprehensive analysis of a retail store sales data from 2023 to 2024 to assess product performance and identify top-selling items, compare monthly sales trends across regions, and uncover customer preferences and regional patterns. This analysis provides actionable insights to inform data-driving decisions, optimize product offerings, and enhance customer retention strategies. In doing this, we will be focusing on data cleaning, analysis and visualization using Excel, SQL, and Power BI respectively.
@@ -150,6 +152,7 @@ This is where we include some basic lines of code or queries or even some of the
 ((https://github.com/JacintaAshishie/LITA_Capstone_SalesData_Project/blob/main/TOTAL%20SALES%20BY%20MONTH.png))
 ((https://github.com/JacintaAshishie/LITA_Capstone_SalesData_Project/blob/main/TOTAL%20SALES%20BY%20REGION.png))
 ((https://github.com/JacintaAshishie/LITA_Capstone_SalesData_Project/blob/main/SUM%20OF%20TOTAL%20SALES.png))
+((https://github.com/JacintaAshishie/LITA_Capstone_SalesData_Project/blob/main/AVERAGE%20OF%20TOTAL%20SALES.png))
 
 ## Key Findings:
 
