@@ -144,7 +144,7 @@ This is where we include some basic lines of code or queries or even some of the
 ### Data Vsualization
 ((https://github.com/JacintaAshishie/LITA_Capstone_SalesData_Project/blob/main/LITA_CAPSTONE_SALESDASHBOARD%203.png))
   
-(())
+((https://github.com/JacintaAshishie/LITA_Capstone_SalesData_Project/blob/main/LITA_CAPSTONE_SALESDASHBOARD..png))
 
 (())
 
