@@ -14,7 +14,7 @@
 - [Data Analysis](#DataAnalysis)
 - [Data Vsualization](#DataVsualization)
 - [KeyFindings](#KeyFindings)
-- [Strategic Recommendations to Enhance Sales Performance](#Strategic Recommendations to Enhance Sales Performance)
+- [Strategic Recommendations to Enhance Sales Performance](#StrategicRecommendationstoEnhanceSalesPerformance)
 - [Actio Plan](#ActionPlan)
   
 ## Project Overview
