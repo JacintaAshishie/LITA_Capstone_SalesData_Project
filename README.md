@@ -168,23 +168,23 @@ This is where we include some basic lines of code or queries or even some of the
 
 ## Strategic Recommendations to Enhance Sales Performance
 
-1. Revitalize Low-Selling Items
+-  Revitalize Low-Selling Items
 
 Implement promotions and bundling strategies to boost sales of underperforming products (Socks, Jackets) by pairing them with best-sellers (Shoes).
 
-2. Regional Revitalization
+ - Regional Revitalization
 
 Focus on low-performing regions:
 
- a. West Region: Launch targeted campaigns to increase sales.
- b. South Region: Conduct customer feedback sessions to understand why certain items (Hats, Jackets, Shirts) aren't selling, and adjust product offerings accordingly.
+- West Region: Launch targeted campaigns to increase sales.
+- South Region: Conduct customer feedback sessions to understand why certain items (Hats, Jackets, Shirts) aren't selling, and adjust product offerings accordingly.
 
-3. Optimize Sales During Low Months
+ - Optimize Sales During Low Months
 
 Analyze February's successful sales strategies and replicate them in slower months (e.g., July) to improve sales performance.
 Expected Outcome
 
-Implementation of these recommendations will likely lead to:
+- Implementation of these recommendations will likely lead to:
 
 - Increased revenue inflow in upcoming months
 - Improved sales performance across regions and product lines
