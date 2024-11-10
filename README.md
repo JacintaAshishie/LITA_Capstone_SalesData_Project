@@ -9,6 +9,7 @@
 - [Dataset Column Headers and Definitions](#DatasetColumnHeadersandDefinitions)
 - [Key Terms and Definitions](#Key-Termsand-Definitions)
 - [Methodology](#Methodology)
+- [Data Cleaning and Preparations](#Data-Cleaning-andPreparations )
 - [Exploratory Data Analysis](#ExploratoryDataAnalysis)
 - [Data Analysis](#DataAnalysis)
 - [Data Vsualization](#DataVsualization)
@@ -88,6 +89,7 @@ Here's a sample outline of terminology and definitions for key column headers sp
 2. Data Analysis (SQL queries)
 3. Data Visualization (Power BI)
 4. Findings and Recommendations.
+
 ## Data Cleaning and Preparations 
 In the initial stage of the data cleaning and preparations, we performed the following actions;
 - Data loading and inspection
